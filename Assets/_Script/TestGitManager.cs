@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class TestGitManager : MonoBehaviour {
 
+    public void gitTest()
+    {}
+
 	// Use this for initialization
 	void Start () {
 		
@@ -13,4 +16,6 @@ public class TestGitManager : MonoBehaviour {
 	void Update () {
 		
 	}
+
+
 }
